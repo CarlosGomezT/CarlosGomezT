@@ -1,4 +1,5 @@
-### My name is Carlos
+### Holi, that's a friendly way to say hi in spanish
+My Name is Carlos de Jesus Gomez, but you can just call me Carlos.
 
 <!--
 **CarlosGomezT/CarlosGomezT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
